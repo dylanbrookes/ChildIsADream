@@ -1,0 +1,109 @@
+{
+
+    "pneumonia" : {
+        "cough": {
+            "similarWords": [
+                "cough",
+                "bob head",
+                "whoop",
+                "hack"
+            ],
+            "rating": 0.2
+        },
+        "phlegm": {
+            "similarWords": [
+                "stuffy",
+                "stuffy nose",
+                "mucous"
+            ],
+            "rating": 0.2
+        },
+        "fever": {
+            "similarWords": [
+                "sweat",
+                "chill",
+                "shake",
+                "sore throat",
+                "low body temperature",
+                "cold skin",
+                "cold"
+            ],
+            "rating": 0.2
+        },
+        "age": {
+            "similarWords": [
+                "child",
+                "young",
+                "young child"
+            ],
+            "rating": 0.2
+        },
+        "chestPain": {
+            "similarWords": [
+                "shallow breath",
+                "fast breath",
+                "difficult breath",
+                "hard to breathe",
+                "can't breathe",
+                "breath",
+                "breathe",
+                "lack of air",
+                "nostril flare",
+                "blue lip",
+                "bluish",
+                "gray lip",
+                "grey"
+            ],
+            "rating": 0.2
+        },
+        "fatigue": {
+            "similarWords": [
+                "tired",
+                "not moving",
+                "inactive",
+                "fussy"
+            ],
+            "rating": 0.2
+        },
+        "lossOfApetite": {
+            "similarWords": [
+                "not hungry",
+                "loss of appetite",
+                "poor appetite",
+                "poor feeding",
+                "irritable",
+                "low energy"
+            ],
+            "rating": 0.2
+        },
+        "nausea": {
+            "similarWords": [
+                "nausea",
+                "vomit",
+                "qualm",
+                "retch",
+                "unwell",
+                "puke",
+                "tummy ache"
+            ],
+            "rating": 0.2
+        },
+        "headache": {
+            "similarWords": [
+                "headache",
+                "confusion",
+                "cry",
+                "hold head",
+                "holding head",
+                "wake night",
+                "restless",
+                "complain",
+                "sensitive to light",
+                "scream"
+            ],
+            "rating": 0.2
+        }
+    }
+
+
+}
